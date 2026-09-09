@@ -43,9 +43,6 @@ Bot automatizado desarrollado en Python que busca y filtra ofertas de empleo rel
 
 ![Resultados encontrados](./Screenshot_20260909-154356.jpg)
 
-### 6️⃣ Finalización del proceso
-
-![Finalización del proceso](./Screenshot_20260909-154537.jpg)
 ## 📋 Palabras clave utilizadas
 
 El bot filtra vacantes relacionadas con diferentes perfiles y tecnologías del área de desarrollo, entre ellas:
