@@ -20,28 +20,29 @@ Bot automatizado desarrollado en Python que busca y filtra ofertas de empleo rel
 - Web Scraping / APIs
 
 ## 📸 Evidencia del funcionamiento
+## 📸 Evidencia del funcionamiento
 
 ### 🤖 Bot de Telegram funcionando
 
-#### 1️⃣ Inicio del bot
+### 1️⃣ Inicio del bot
 
-![Inicio del bot](Screenshot_20260909-151410.jpg)
+![Inicio del bot](./Screenshot_20260909-151410.jpg)
 
-#### 2️⃣ Selección de días para la búsqueda
+### 2️⃣ Selección de días para la búsqueda
 
-![Selección de días](Screenshot_20260909-151439.jpg)
+![Selección de días](./Screenshot_20260909-151439.jpg)
 
-#### 3️⃣ Proceso de búsqueda de vacantes
+### 3️⃣ Proceso de búsqueda de vacantes
 
-![Búsqueda de vacantes](Screenshot_20260909-151446.jpg)
+![Proceso de búsqueda](./Screenshot_20260909-151446.jpg)
 
-#### 4️⃣ Resultados encontrados
+### 4️⃣ Resultados encontrados
 
-![Resultados encontrados](Screenshot_20260909-151453.jpg)
+![Resultados encontrados](./Screenshot_20260909-151453.jpg)
 
-#### 5️⃣ Finalización del proceso
+### 5️⃣ Resultados enviados
 
-![Proceso finalizado](Screenshot_20260909-154356.jpg)
+![Resultados enviados](./Screenshot_20260909-154356.jpg)
 
 ## 📋 Palabras clave utilizadas
 
