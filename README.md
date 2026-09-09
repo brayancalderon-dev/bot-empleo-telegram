@@ -1,4 +1,4 @@
-# 🤖 Bot de Empleo IT para Telegram
+o# 🤖 Bot de Empleo IT para Telegram
 
 Bot automatizado desarrollado en Python que busca y filtra ofertas de empleo relacionadas con el área de Tecnología y envía las oportunidades encontradas directamente a Telegram.
 
@@ -19,7 +19,7 @@ Bot automatizado desarrollado en Python que busca y filtra ofertas de empleo rel
 ## 📸 Evidencia del funcionamiento
 ### 🤖 Bot de Telegram funcionando
 
-![Bot funcionando](Screenshot_20260909-151446.jpg)
+![Bot funcionando](./Screenshot_20260909-151446.jpg)
 ## 👨‍💻 Autor
 
 **Brayan Calderón**  
