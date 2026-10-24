@@ -20,14 +20,9 @@ from telegram.ext import (
     ContextTypes,
     filters,
 )
-
-# ============================================================
-# CONFIGURA TUS CREDENCIALES DE TELEGRAM ANTES DE EJECUTAR.
-# No compartas el archivo si contiene tus claves.
-# ============================================================
-API_ID = "37026594"
-API_HASH = "49cf605eb428b1f99a08a8fc0e175274"
-BOT_TOKEN = "8328032348:AAEa285QRPAE-gII-LAUKtqxyHN0l7HUxO4"
+API_ID = ""
+API_HASH = ""
+BOT_TOKEN = ""
 
 # Ajustes de rendimiento
 TIMEOUT_BUSQUEDA_WEB = 4          # Segundos máximos por búsqueda web
